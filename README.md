@@ -1,7 +1,7 @@
 ﻿
  # Hi,I'm NEHA JAISON
 
-🎓 I'm currently pursuing an **M.Sc. in Data Science**.
+🎓 I'm currently pursuing an **M.Sc. in Data Science** in **Cochin University of Science and technology**
 
 🌱 I’m currently learning:
 - Python
